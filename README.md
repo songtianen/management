@@ -1,23 +1,40 @@
-# admin-v1
+# management
 
 #### 项目介绍
-这是第一版 后台管理
+
+http://47.95.252.128
 
 #### 软件架构
-软件架构说明
 
-
-#### 安装教程
-
-1. xxxx
-2. xxxx
-3. xxxx
+antd
+react:16.3.1
+babel
+webpack4 (webpack3 配置文件已保存)
+...loaders
+webpack-dev-server 热更新
+code lint 代码检查
+git commit 预处理
+---------------
+redux 状态管理(...结构化redux)
+axios 数据请求
+redux-saga 异步管理
+react-router4 路由
+react-loadable 按路由代码分割
+按组件划分
+容器组件 可视化组件 封装
+为什么这样做？ ...balabala
+---------------
+nodeJs
+express
+mongodb
+mongoose
+七牛，阿里云
 
 #### 使用说明
 
-1. xxxx
-2. xxxx
-3. xxxx
+1. 开发环境: yarn run dev:server ; yarn run dev:client
+2. 生产环境: yarn run build:client ; yarn run build:client
+3. 发布:
 
 #### 参与贡献
 
