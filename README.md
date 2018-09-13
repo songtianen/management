@@ -14,7 +14,7 @@ webpack4 (webpack3 配置文件已保存)
 webpack-dev-server 热更新
 code lint 代码检查
 git commit 预处理
----------------
+
 redux 状态管理(...结构化redux)
 axios 数据请求
 redux-saga 异步管理
@@ -23,7 +23,7 @@ react-loadable 按路由代码分割
 按组件划分
 容器组件 可视化组件 封装
 为什么这样做？ ...balabala
----------------
+
 nodeJs
 express
 mongodb
