@@ -1,0 +1,33 @@
+{
+  "presets": [
+    [
+      "env",
+      {
+        "targets": {
+          "browsers": [
+            "last 2 versions",
+            "safari >= 7"
+          ]
+        }
+      }
+    ],
+    "react",
+    "stage-1"
+  ],
+  "plugins": [
+      "syntax-dynamic-import",
+      "lodash",
+      [
+        "import",
+        {
+          "libraryName": "antd",
+          "libraryDirectory": "lib",
+          "style": "css"
+        }
+      ],
+      "transform-runtime",
+     "react-hot-loader/babel"
+
+  ]
+
+}

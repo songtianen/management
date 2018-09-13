@@ -1,0 +1,17 @@
+{
+  "root": true,
+  "parser": "babel-eslint",
+  "extends": "standard",
+  "env": {
+    "browser": true,
+    "node": true
+  },
+  "rules": {
+    "space-before-function-paren": [
+      0
+    ],
+    "max-len": [
+      0
+    ]
+  }
+}
