@@ -33,7 +33,7 @@ mongoose
 #### 使用说明
 
 1. 开发环境: yarn run dev:server ; yarn run dev:client
-2. 生产环境: yarn run build:client ; yarn run build:client
+2. 生产环境: yarn run build:client ; yarn start
 3. 发布:
 
 #### 参与贡献
