@@ -11,7 +11,7 @@ import _Login from './login'
 import _Register from './register'
 import _Layout from './layout'
 import { Content, Welcome } from './content' // eslint-disable-line
-import NotFount from '../components/not-fount'
+import NotFount from '../components/not-found'
 
 const Wrapper = ({ children }) => children
 
